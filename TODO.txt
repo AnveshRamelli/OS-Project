@@ -1,0 +1,2 @@
+The task of implementing OOPS concepts with List of List can add more advantage to the project.
+Trying to implement the FCFS algorithm in Realtime Digital Cart application to provide the waiting time to the users, when multiple number of users request for payment authorisation while paying bill to the system.

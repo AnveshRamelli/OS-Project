@@ -1,0 +1,17 @@
+**It is highly recommended to install python using the Anaconda distribution to make sure all underlying dependencies all sync up with the use of a conda install.**
+**The packages will work in Direct Python versions like 3.7, 3.9 etc but the download of packages has to be done seperately inorder to install the packages.**
+
+#Install numpy by going to your terminal or command prompt and typing:
+conda install numpy
+(or)
+pip install numpy
+
+#Install matplotlib by going to your terminal or command prompt and typing:
+conda install matplotlib
+(or)
+pip install matplotlib
+
+#Install plotly by going to your terminal or command prompt and typing:
+conda install plotly
+(or)
+pip install plotly
